@@ -100,7 +100,7 @@ question_tab = [
 	2. Baraye matrah kardan tardid darid\n"
 ,
 
-#part2
+#part2 ===============
 "26. Tarjih midahid dar nazar mardom chegoneh bashid:\n\
 	1. Ahl amal\n\
 	2. Mobtaker va khalagh\n"
@@ -177,7 +177,7 @@ question_tab = [
 	1. Basirat darad\n\
 	2. Aghl salim darad\n"
 ,
-#part3
+#part3 ===============
 "45. Agar bekhahid dar hamsayegi khod baraye masaeli manand komak be komite emdad,komak jam avari konid:\n\
 	1. Darkhast shoma kholase va tejari ast\n\
 	2. Darkhast shoma dostaneh va ejtemaei ast\n"
@@ -275,11 +275,13 @@ question_tab = [
 	1. Be mardom bishtar az afrad alaghemand hastid\n\
 	2. Be ashya va nahveh kar ba anha bishtar alaghe darid\n"
 ,
+#part 4 ===============
+
 "69. Baraye anjam yek kar,aya:\n\
 	1. An ra zood shoro mikonid be tari ke dar payan vaght ezafe darid\n\
 	2. An ra dar lahze akhar anjam midahid\n"
 ,
-#
+
 "70. Vaghti roydadi pishbini nashodeh shoma ra majbor be taghir barname rozane tan mishavad:\n\
 	1. Taghir dar barname tan ra mozahemat talaghi mikonid\n\
 	2. Taghirat ra bedon hich moshkeli mipazirid\n"
