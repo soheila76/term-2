@@ -1,4 +1,3 @@
-
 question_tab = [
 "1. Aya shenakhtan shoma:\n\
 	1. Asan ast\n\
@@ -100,186 +99,261 @@ question_tab = [
 	1. An ra matrah mikonid\n\
 	2. Baraye matrah kardan tardid darid\n"
 ,
-"26. Is it worse to be:\n\
-	1. unjust\n\
-	2. merciless\n"
+
+#part2
+"26. Tarjih midahid dar nazar mardom chegoneh bashid:\n\
+	1. Ahl amal\n\
+	2. Mobtaker va khalagh\n"
 ,
-"27. Should one usually let events occur:\n\
-	1. by careful selection and choice\n\
-	2. randomly and by chance\n"
+"27. Hengame motalee ba hadaf sargarm shodan:\n\
+	1. Az shive bayan jadid va khalaghaneh lezat mibarid\n\
+	2. Tarjih midahid nevisandeh manzorash ra ba serahat begoyad\n"
 ,
-"28. Do you feel better about:\n\
-	1. having purchased\n\
-	2. having the option to buy\n"
+"28. Agar moalem bodid tarjih midadid:\n\
+	1. Vagheiat ha ra tadris konid\n\
+	2. Nazarie ha ra tadris konid\n"
 ,
-"29. In company do you:\n\
-	1. initiate conversation\n\
-	2. wait to be approached\n"
+"29. Mamolan ba kodam shakhs rahat tar ertebat bargharar mikonid:\n\
+	1. Fardi takhayoli\n\
+	2. Fardi vaghe bin\n"
 ,
-"30. Common sense is:\n\
-	1. rarely questionable\n\
-	2. frequently questionable\n"
+"30. Dar anjam kari ke besyary az mardom anham midahand:\n\
+	1. An ra be shive pazirofteh shodeh anjam midahid\n\
+	2. Az ravesh khas khodetan baraye anjam an estefadeh mikonid\n"
 ,
-"31. Children often do not:\n\
-	1. make themselves useful enough\n\
-	2. exercise their fantasy enough\n"
+"31. Dar shiveh zendegietan tarjih midahid:\n\
+	1. Motefavet bashid\n\
+	2. Motearef amal konid\n"
 ,
-"32. In making decisions do you feel more comfortable with:\n\
-	1. standards\n\
-	2. feelings\n"
+"32. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Ebarat\n\
+	2. Mafhom\n"
 ,
-"33. Are you more:\n\
-	1. firm than gentle\n\
-	2. gentle than firm\n"
+"33. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Sakhtan\n\
+	2. Ekhtera kardan\n"
 ,
-"34. Which is more admirable:\n\
-	1. the ability to organize and be methodical\n\
-	2. the ability to adapt and make do\n"
+"34. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Vaghei\n\
+	2. Entezaei\n"
 ,
-"35. Do you put more value on:\n\
-	1. infinite\n\
-	2. open-minded\n"
+"35. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Horofi\n\
+	2. Arghami\n"
 ,
-"36. Does new and non-routine interaction with others:\n\
-	1. stimulate and energize you\n\
-	2. tax your reserves\n"
+"36. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Tolid\n\
+	2. Tarahi\n"
 ,
-"37. Are you more frequently:\n\
-	1. a practical sort of person\n\
-	2. a fanciful sort of person\n"
+"37. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Alamat\n\
+	2. Namad\n"
 ,
-"38. Are you more likely to:\n\
-	1. see how others are useful\n\
-	2. see how others see\n"
+"38. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Paziresh\n\
+	2. Taghir\n"
 ,
-"39. Which is more satisfying:\n\
-	1. to discuss an issue throughly\n\
-	2. to arrive at agreement on an issue\n"
+"39. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Shenakhteh shodeh\n\
+	2. Nashenakhteh\n"
 ,
-"40. Which rules you more:\n\
-	1. your head\n\
-	2. your heart\n"
+"40. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Vagheiat ha\n\
+	2. Eydeh ha\n"
 ,
-"41. Are you more comfortable with work that is:\n\
-	1. contracted\n\
-	2. done on a casual basis\n"
+"41. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Zir bana\n\
+	2. Zaher(Ro bana)\n"
 ,
-"42. Do you tend to look for:\n\
-	1. the orderly\n\
-	2. whatever turns up\n"
+"42. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Nazariyeh\n\
+	2. Tajrobeh\n"
 ,
-"43. Do you prefer:\n\
-	1. many friends with brief contact\n\
-	2. a few friends with more lengthy contact\n"
+"43. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Mayee\n\
+	2. Jamed\n"
 ,
-"44. Do you go more by:\n\
-	1. facts\n\
-	2. principles\n"
+"44. Kodam yek tamjid bishtari az yek fard ast:\n\
+	1. Basirat darad\n\
+	2. Aghl salim darad\n"
 ,
-"45. Are you more interested in:\n\
-	1. production and distribution\n\
-	2. design and research\n"
+#part3
+"45. Agar bekhahid dar hamsayegi khod baraye masaeli manand komak be komite emdad,komak jam avari konid:\n\
+	1. Darkhast shoma kholase va tejari ast\n\
+	2. Darkhast shoma dostaneh va ejtemaei ast\n"
 ,
-"46. Which is more of a compliment:\n\
-	1. “There is a very logical person.”\n\
-	2. “There is a very sentimental person.”\n"
+"46. Kodam gozine tarif bishtari az shoma mahsob mishavad:\n\
+	1. Shakhsi ba ehsasat vaghei\n\
+	2. Shakhsi hamishe manteghi\n"
 ,
-"47. Do you value in yourself more that you are:\n\
-	1. unwavering\n\
-	2. devoted\n"
+"47. Aya dar tasmimgiri:\n\
+	1. Ghalbetan bar aghletan ghalabeh darad\n\
+	2. Aghletan bar ghalbetan ghalabeh darad\n"
 ,
-"48. Do you more often prefer the\n\
-	1. final and unalterable statement\n\
-	2. tentative and preliminary statement\n"
+"48. Hengame goft va go bishtar tamayul darid:\n\
+	1. Tamjid konid\n\
+	2. Sarzanesh konid\n"
 ,
-"49. Are you more comfortable:\n\
-	1. after a decision\n\
-	2. before a decision\n"
+"49. Kodam eib bishtary darad:\n\
+	1. Hamdardi nakardan\n\
+	2. Estedlal pazir nabodan\n"
 ,
-"50. Do you:\n\
-	1. speak easily and at length with strangers\n\
-	2. find little to say to strangers\n"
+"50. Baraye anjam yek amal khas kodam barayetan jaleb tar ast:\n\
+	1. Mardom dost dashteh bashand ke shoma an ra anjam dahid\n\
+	2. In yek kar manteghi bashad\n"
 ,
 
-"51. Are you more likely to trust your:\n\
-	1. experience\n\
-	2. hunch\n"
+"51. Kodam yek dar fard naghs bishtary ast:\n\
+	1. Kheili ehsasati bodan\n\
+	2. Be andazeh kafi ehsasati nabodan\n"
 ,
-"52. Do you feel:\n\
-	1. more practical than ingenious\n\
-	2. more ingenious than practical\n"
+"52. Kodam yek dar fard naghs bishtary ast:\n\
+	1. garm bodan bish az had\n\
+	2. Be andazeh kafi garm nabodan\n"
 ,
-"53. Which person is more to be complimented  – one of:\n\
-	1. clear reason\n\
-	2. strong feeling\n"
+"53. Aya mamolan:\n\
+	1. Ehsas arzesh bishtary az mantegh darad\n\
+	2. Mantegh arzesh bishtary darad\n"
 ,
-"54. Are you inclined more to be:\n\
-	1. fair-minded\n\
-	2. sympathetic\n"
+"54. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Movafeghat kardan\
+	2. Porsidan\n"
 ,
-"55. Is it preferable mostly to:\n\
-	1. make sure things are arranged\n\
-	2. just let things happen\n"
+"55. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Movafeghat kardan\
+	2. Porsidan\n"
 ,
-"56. In relationships should most things be:\n\
-	1. re-negotiable\n\
-	2. random and circumstantial\n"
+"56. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Mazaya\n\
+	2. Barekat\n"
 ,
-"57. When the phone rings do you:\n\
-	1. hasten to get to it first\n\
-	2. hope someone else will answer\n"
+"57. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Tahlil kardan\n\
+	2. Hamdardi\n"
 ,
-"58. Do you prize more in yourself:\n\
-	1. a strong sense of reality\n\
-	2. a vivid imagination\n"
+"58. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Narm\n\
+	2. Sakht\n"
 ,
-"59. Are you drawn more to:\n\
-	1. fundamentals\n\
-	2. overtones\n"
+"59. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Payband be andishe khod\n\
+	2. Delgarm\n"
 ,
-"60. Which seems the greater error:\n\
-	1. to be too passionate\n\
-	2. to be too objective\n"
+"60. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Che kasi\n\
+	2. Che chizi\n"
 ,
-"61. Do you see yourself as basically:\n\
-	1. hard-headed\n\
-	2. soft-hearted\n"
+"61. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Mohtat\n\
+	2. Khosh khiyal\n"
 ,
-"62. Which situation appeals to you more:\n\
-	1. the structured and scheduled\n\
-	2. the unstructured and unscheduled\n"
+"62. Kodam loghat baraye shoma jaleb tar ast\n\
+	1. Molayem\n\
+	2. Mohkam\n"
 ,
-"63. Are you a person that is more:\n\
-	1. routinized than whimsical\n\
-	2. whimsical than routinized\n"
+"63. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Edalat\n\
+	2. Bakhshandegi\n"
 ,
-"64. Are you more inclined to be:\n\
-	1. easy to approach\n\
-	2. somewhat reserved\n"
+"64. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Gheire enteghadi\n\
+	2. Enteghadi\n"
 ,
-"65. In writings do you prefer:\n\
-	1. the more literal\n\
-	2. the more figurative\n"
+"65. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Motefaker\n\
+	2. Ehsasi\n"
 ,
-"66. Is it harder for you to:\n\
-	1. identify with others\n\
-	2. utilize others\n"
+"66. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Delsozi\n\
+	2. Dor andishi\n"
 ,
-"67. Which do you wish more for yourself:\n\
-	1. clarity of reason\n\
-	2. strength of compassion\n"
+"67. Bishtar moragheb kodam yek hastid:\n\
+	1. Ehsasat afrad\n\
+	2. Hoghogh afrad\n"
 ,
-"68. Which is the greater fault:\n\
-	1. being indiscriminate\n\
-	2. being critical\n"
+"68. Aya be tor tabiei :\n\
+	1. Be mardom bishtar az afrad alaghemand hastid\n\
+	2. Be ashya va nahveh kar ba anha bishtar alaghe darid\n"
 ,
-"69. Do you prefer the:\n\
-	1. planned event\n\
-	2. unplanned event\n"
+"69. Baraye anjam yek kar,aya:\n\
+	1. An ra zood shoro mikonid be tari ke dar payan vaght ezafe darid\n\
+	2. An ra dar lahze akhar anjam midahid\n"
 ,
-"70. Do you tend to be more:\n\
-	1. deliberate than spontaneous\n\
-	2. spontaneous than deliberate\n"
+#
+"70. Vaghti roydadi pishbini nashodeh shoma ra majbor be taghir barname rozane tan mishavad:\n\
+	1. Taghir dar barname tan ra mozahemat talaghi mikonid\n\
+	2. Taghirat ra bedon hich moshkeli mipazirid\n"
+,
+"71. Aya motabegh barnameh amal kardan:\n\
+	1. Moredeh rezayat shomast\n\
+	2. Shoma ra dar tangna gharar midahad\n"
+,
+"72. Hengame shoroe yek proje bozorg ke dar yek hafteh bayad anjam shavad:\n\
+	1. Zamani ra baraye neveshtan fehrest karha migozarid\n\
+	2. Del be darya mizanid va shoro mikonid\n"
+,
+"73. Agar gharar bashad kari ra dar zaman khasi anjam dahid:\n\
+	1. Tebghe barnameh amal kardan barayetan khoshayand ast\n\
+	2. Az dar charchob gharar gereftan na khoshnod mishavid\n"
+,
+"74. Aya tarjih midahid:\n\
+	1. Gharar molaghat ha, mihmani ha ra az pish taeen konid\n\
+	2. Fardi bashid ke hata lahzeh akhar dar jaie ke tamayol darad bashad\n"
+,
+"75. Aya:\n\
+	1. Tarjih midahid karha ra dar 10 daghigheh akhar anjam dahid\n\
+	2. Anjam dadan karha dar daghigheh akhar shoma ra asabi mikonad\n"
+,
+"76. Aya fekr mikonid ke dashtan yek barname rozaneh:\n\
+	1. Rahat tarin ravesh baraye anjam dadan karhast\n\
+	2. Hata agar zarori bashad ranj avar ast\n"
+,
+
+"77. Vaghti ke kar khasi baraye anjam dadan darid,mayelid:\n\
+	1. Pish az aghaz kar,ba deghat an ra sazman dehi mikonid\n\
+	2. Anche zarori ast ra hein anjam kar motavajeh mishavid\n"
+,
+"78. Aya:\n\
+	1. Rozmareh bodan barayetan sadeh tar ast\n\
+	2. Motenaveh bodan barayetan sadeh tar ast\n"
+,
+
+"79. Dar zendegi shakhsi vaghti be payan yek masoliat miresid:\n\
+	1. Midanid ke kar badi chist va dargir an mishavid\n\
+	2. Ta pishamad badi az aramesh khod estefadeh mikonid\n"
+,
+"80. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Vaght shenas\n\
+	2. Bi daghdagheh\n"
+,
+"81. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Monzabet\n\
+	2. Asan gir\n"
+,
+"82. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Monazam\n\
+	2. Khodemani\n"
+,
+"83. Kodam loghat baraye shoma jaleb tar ast:\n\
+	1. Barname riz\n\
+	2. Bi barnameh\n"
+,
+"84. Aya be tor koli tarjih midahid:\n\
+	1. Baraye didan kasi az ghabl barname rizi konid\n\
+	2. Azad bashid va harzaman deletan khast barnameh berizid\n"
+,
+"85. Vaghti baraye yek roz jayie miravid:\n\
+	1. Baraye inke che kari che moghe anjam shavad barname rizi mikonid\n\
+	2. Faghat miravid\n"
+,
+"86. Darbare kar haye rozmare tarjih midahid:\n\
+	1. Ebtedaye sobh hame kar ha ra anjam dahid\n\
+	2. Dar zaman forsat pish amade karhaye jaleb ra anjam dahid\n"
+,
+"87. Aya:\n\
+	1. Az tamam karha pish az zaman moayan ehsas khoshnodi darid\n\
+	2. Az soraat va karamadi khod dar payan kar ehsas khoshnodi darid \n"
+
 ]
 
 
